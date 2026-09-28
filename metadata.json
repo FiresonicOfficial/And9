@@ -1,0 +1,6 @@
+{
+  "name": "PiePlay 32",
+  "description": "Native Android 9 32-bit gaming emulator sandbox with hardware acceleration, customizable virtual gamepad, and retro arcade titles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

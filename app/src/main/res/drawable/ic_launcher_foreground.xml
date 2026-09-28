@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Controller Body Outline and Fill -->
+    <path
+        android:fillColor="#1E2942"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M34,36 C25,36 21,43 21,55 C21,68 25,76 33,76 C37,76 42,71 46,65 L62,65 C66,71 71,76 75,76 C83,76 87,68 87,55 C87,43 83,36 74,36 Z" />
+
+    <!-- D-Pad Cross (Left Side) -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M31,47 h6 v4 h-6 z M27,51 h14 v4 h-14 z M31,55 h6 v4 h-6 z" />
+
+    <!-- Action Buttons (Right Side) -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M76,46 a2.5,2.5 0 1,0 0.1,0 z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M81,51 a2.5,2.5 0 1,0 0.1,0 z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M71,51 a2.5,2.5 0 1,0 0.1,0 z" />
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M76,56 a2.5,2.5 0 1,0 0.1,0 z" />
+
+    <!-- Center 32-Bit Neon Badge -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M48,46 h12 v14 h-12 z" />
+    <!-- "32" representation cutouts -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,48 h4 v2 h-3 v1 h3 v3 h-4 v-1 h3 v-1 h-3 z M56,48 h3 v3 h-2 v1 h2 v2 h-3 v-2 h2 v-1 h-2 z" />
+
+    <!-- Hardware Acceleration Lightning Bolt Top Accent -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M55,27 L51,34 L54,34 L53,40 L58,32 L55,32 Z" />
+</vector>
